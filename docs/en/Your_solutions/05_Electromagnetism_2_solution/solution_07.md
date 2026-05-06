@@ -22,6 +22,7 @@ c = 3.0 × 10^8 m/s
 A wavelength of about 550 nm belongs to the visible spectrum.
 
 This wavelength corresponds approximately to green light.
+<img width="1448" height="1086" alt="ChatGPT Image 6 мая 2026 г , 16_45_56" src="https://github.com/user-attachments/assets/680c898a-ee37-492c-8cde-ba1718176248" />
 
 So the color is:
 
